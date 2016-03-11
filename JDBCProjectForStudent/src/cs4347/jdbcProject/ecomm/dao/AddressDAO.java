@@ -1,3 +1,5 @@
+//Woo! I added a comment to the code!
+
 package cs4347.jdbcProject.ecomm.dao;
 
 import java.sql.Connection;
